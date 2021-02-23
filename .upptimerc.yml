@@ -4,12 +4,10 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Ambiente Desarrollo
+    url: https://dacot.duckdns.org
+  - name: Ambiente Producción
+    url: https://dacot.uoct.cl
 
 status-website:
   baseUrl: /uptime
