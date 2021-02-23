@@ -9,7 +9,7 @@ sites:
   - name: Ambiente Producción
     url: https://dacot.uoct.cl
   - name: Web Institucional UOCT
-    url: https://mtt.gob.cl/pyd/uoct
+    url: https://www.transporteinforma.cl/
   - name: Web UOCT - Feria de Software 2020
     url: https://dacot.feriadesoftware.cl
   - name: Benchmark Google
