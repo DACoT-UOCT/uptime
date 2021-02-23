@@ -8,8 +8,10 @@ sites:
     url: https://dacot.duckdns.org
   - name: Ambiente Producción
     url: https://dacot.uoct.cl
-  - name: Web Institucional
+  - name: Web Institucional UOCT
     url: https://mtt.gob.cl/pyd/uoct
+  - name: Web UOCT - Feria de Software 2020
+    url: https://dacot.feriadesoftware.cl
   - name: Benchmark Google
     url: https://www.google.cl
 
