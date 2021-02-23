@@ -8,6 +8,10 @@ sites:
     url: https://dacot.duckdns.org
   - name: Ambiente Producción
     url: https://dacot.uoct.cl
+  - name: Web Institucional
+    url: https://mtt.gob.cl/pyd/uoct
+  - name: Benchmark Google
+    url: https://www.google.cl
 
 status-website:
   baseUrl: /uptime
