@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 1386,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
+    "time": 637,
+    "timeDay": 392,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-25": 50,
+      "2021-02-26": 50,
+      "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 16
     }
@@ -45,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/www.transporteinforma.cl",
     "slug": "web-institucional-uoct",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 2778,
-    "timeDay": 1536,
-    "timeWeek": 2778,
-    "timeMonth": 2778,
-    "timeYear": 2778,
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 2649,
+    "timeDay": 2393,
+    "timeWeek": 2649,
+    "timeMonth": 2649,
+    "timeYear": 2649,
     "dailyMinutesDown": {
       "2021-02-23": 7
     }
@@ -70,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1583,
-    "timeDay": 1618,
-    "timeWeek": 1583,
-    "timeMonth": 1583,
-    "timeYear": 1583,
+    "time": 1635,
+    "timeDay": 1788,
+    "timeWeek": 1635,
+    "timeMonth": 1635,
+    "timeYear": 1635,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 86,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 86,
+    "timeDay": 97,
+    "timeWeek": 86,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   }
 ]
