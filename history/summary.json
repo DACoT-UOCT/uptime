@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/dacot.duckdns.org",
     "slug": "ambiente-desarrollo",
     "status": "up",
-    "uptime": "83.09%",
+    "uptime": "83.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.09%",
-    "uptimeYear": "83.09%",
+    "uptimeMonth": "83.53%",
+    "uptimeYear": "83.53%",
     "time": 813,
     "timeDay": 374,
     "timeWeek": 862,
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-17": 53,
+      "2021-03-17": 874,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
@@ -89,7 +89,7 @@
     "url": "https://dacot.feriadesoftware.cl",
     "icon": "https://favicons.githubusercontent.com/dacot.feriadesoftware.cl",
     "slug": "web-uoct-feria-de-software-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -100,7 +100,9 @@
     "timeWeek": 1416,
     "timeMonth": 1489,
     "timeYear": 1489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   },
   {
     "name": "Benchmark Google",
