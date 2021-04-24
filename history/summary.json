@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dacot.duckdns.org",
     "slug": "ambiente-desarrollo",
     "status": "up",
-    "uptime": "93.86%",
+    "uptime": "93.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.86%",
-    "time": 833,
-    "timeDay": 1465,
-    "timeWeek": 985,
-    "timeMonth": 855,
-    "timeYear": 833,
+    "uptimeYear": "93.97%",
+    "time": 829,
+    "timeDay": 545,
+    "timeWeek": 989,
+    "timeMonth": 819,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2021-03-07": 937,
       "2021-03-06": 1440,
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-23": 21,
+      "2021-04-24": 21,
+      "2021-04-23": 1440,
       "2021-04-22": 1440,
       "2021-04-21": 1440,
       "2021-04-20": 1440,
@@ -112,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3482,
-    "timeDay": 6287,
-    "timeWeek": 5183,
-    "timeMonth": 3804,
-    "timeYear": 3482,
+    "time": 3529,
+    "timeDay": 6362,
+    "timeWeek": 5518,
+    "timeMonth": 3948,
+    "timeYear": 3529,
     "dailyMinutesDown": {
       "2021-02-23": 7
     }
@@ -132,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1571,
-    "timeDay": 1590,
-    "timeWeek": 2041,
-    "timeMonth": 1620,
-    "timeYear": 1571,
+    "time": 1574,
+    "timeDay": 1778,
+    "timeWeek": 2108,
+    "timeMonth": 1626,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2021-03-17": 11
     }
@@ -152,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 223,
+    "time": 129,
+    "timeDay": 82,
     "timeWeek": 140,
-    "timeMonth": 152,
-    "timeYear": 130,
+    "timeMonth": 147,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   }
 ]
