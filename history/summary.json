@@ -4,9 +4,9 @@
     "url": "https://dacot.duckdns.org",
     "icon": "https://favicons.githubusercontent.com/dacot.duckdns.org",
     "slug": "ambiente-desarrollo",
-    "status": "up",
+    "status": "down",
     "uptime": "94.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.58%",
     "uptimeYear": "94.49%",
@@ -16,6 +16,7 @@
     "timeMonth": 741,
     "timeYear": 846,
     "dailyMinutesDown": {
+      "2021-06-16": 0,
       "2021-06-08": 150,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
@@ -50,7 +51,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-16": 61,
+      "2021-06-16": 170,
       "2021-06-15": 1440,
       "2021-06-14": 1440,
       "2021-06-13": 1440,
